@@ -3,12 +3,12 @@
 ## Useful git commands
 
 While in local repository <br>
-Note: for anything in brackets <> replace with contents of brackets.
-Example:
+Note: for anything in brackets <> replace with contents of brackets. <br>
+Example: Replace
 ```
 <filename>
 ```
-goes to
+with
 ```
 text.html
 ```
