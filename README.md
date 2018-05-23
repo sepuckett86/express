@@ -1,4 +1,4 @@
-# express
+# Express Test
 
 ## Useful git commands
 
@@ -28,7 +28,7 @@ git checkout <branch-name>
 ```
 git add <filename or -A for all>
 ```
-
+### Undo Add
 ```
 git reset HEAD <filename or nothing to remove all from add>
 ```
