@@ -3,11 +3,34 @@
 ## Useful git commands
 
 While in local repository <br>
-<br>
+Note: for anything in brackets <> replace with contents of brackets.
+Example:
+```
+<filename>
+```
+goes to
+```
+text.html
+```
+
 ### Check status
 ```
 git status
 ```
+### Check branch
+```
+git branch
+```
+
+### Create new branch
+```
+git checkout -b <branch-name>
+```
+### Switch branch
+```
+git checkout <branch-name>
+```
+
 ### Add
 ```
 git add <filename or -A for all>
