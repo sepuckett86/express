@@ -4,14 +4,7 @@
 
 While in local repository <br>
 Note: for anything in brackets <> replace with contents of brackets. <br>
-Example: Replace
-```
-<filename>
-```
-with
-```
-text.html
-```
+Example: Replace `<filename>` with `text.html`
 
 ### Check status
 ```
