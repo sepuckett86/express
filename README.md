@@ -36,3 +36,7 @@ git reset HEAD <filename or nothing to remove all from add>
 ```
 git commit -m "<your message here>"
 ```
+### Undo Last Commit
+```
+git reset HEAD~
+```
