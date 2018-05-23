@@ -1,0 +1,23 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "testing express and sqlite3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepuckett86/expressTest.git"
+  },
+  "author": "Susan Puckett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sepuckett86/expressTest/issues"
+  },
+  "homepage": "https://github.com/sepuckett86/expressTest#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.0"
+  }
+}
